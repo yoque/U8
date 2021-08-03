@@ -1,0 +1,23 @@
+h3 {
+    color: rgb(165, 154, 1);
+  }
+
+  body {
+    background-color: rgb(61, 40, 0);
+    color: rgb(179, 152, 0);
+  }
+  a {
+    color: rgb(207, 152, 0);text-align: center;
+  }
+  a:hover, a:active {
+    color: rgb(250, 212, 0);
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(141, 85, 0);
+    color: white;
+    text-align: center;
+  }
